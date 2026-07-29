@@ -1,0 +1,301 @@
+OrderID,OrderDate,Category,ProductName,UnitPrice,Quantity,Region
+2001,2024-04-12,Electronics,Keyboard,24900.0,2.0,Daegu
+2002,2024-12-14,Electronics,Bluetooth Earbuds,89000.0,1.0,Gwangju
+2003,2024-09-27,Sports,Water Bottle,29900.0,1.0,Daegu
+2004,2024-04-16,Fashion,Jacket,4500.0,2.0,Seoul
+2005,2024-03-12,Sports,Jump Rope,12000.0,2.0,Daegu
+2006,2024-07-07,Electronics,Bluetooth Earbuds,24900.0,3.0,Daegu
+2007,2024-01-21,Home,Coffee Mug,24900.0,2.0,Seoul
+2008,2024-04-12,Sports,Water Bottle,4500.0,2.0,Daejeon
+2009,2024-05-01,Sports,Yoga Mat,12000.0,1.0,Seoul
+2010,2024-08-02,Fashion,Socks,69000.0,1.0,Gwangju
+2011,2024-11-26,Fashion,Socks,39000.0,1.0,Daegu
+2012,2024-03-28,Fashion,Denim Jeans,69000.0,1.0,Seoul
+2013,2024-04-09,Electronics,Wireless Mouse,29900.0,2.0,Busan
+2014,2024-12-25,Fashion,Hoodie,8900.0,1.0,Daejeon
+2015,2024-05-31,Home,Table Lamp,39000.0,1.0,Incheon
+2016,2024-05-10,Sports,Jump Rope,4500.0,3.0,Gwangju
+2017,2024-05-29,Home,Cushion,39000.0,2.0,Busan
+2018,2024-11-04,Fashion,Socks,12000.0,1.0,Busan
+2019,2024-09-14,Sports,Sport Bag,69000.0,1.0,Gwangju
+2020,2024-12-09,Electronics,USB-C Charger,69000.0,3.0,Gwangju
+2021,2024-10-20,Beauty,Perfume,24900.0,1.0,Daejeon
+2022,2024-07-10,Home,Towel Set,24900.0,2.0,Gwangju
+2023,2024-10-03,Sports,Jump Rope,12000.0,2.0,Daejeon
+2024,2024-06-09,Fashion,Sneakers,69000.0,3.0,Daegu
+2025,2024-11-09,Electronics,Wireless Mouse,69000.0,1.0,Daejeon
+2026,2024-01-22,Fashion,Jacket,39000.0,1.0,Incheon
+2027,2024-09-09,Sports,Yoga Mat,69000.0,1.0,Seoul
+2028,2024-08-23,Fashion,Socks,29900.0,1.0,Daejeon
+2029,2024-12-10,Sports,Yoga Mat,,2.0,Gwangju
+2030,2024-02-18,Sports,Water Bottle,69000.0,1.0,Daejeon
+2031,2024-02-28,Electronics,Monitor,24900.0,1.0,Gwangju
+2032,2024-06-18,Home,Frying Pan,69000.0,1.0,Daejeon
+2033,2024-07-06,Home,Coffee Mug,24900.0,1.0,Busan
+2034,2024-09-27,Sports,Jump Rope,,2.0,Busan
+2035,2024-07-08,Fashion,Hoodie,69000.0,1.0,Daejeon
+2036,2024-06-23,Sports,Jump Rope,49000.0,1.0,Seoul
+2037,2024-02-20,Home,Cushion,18900.0,2.0,Busan
+2038,2024-12-29,Beauty,Perfume,4500.0,1.0,Daejeon
+2039,2024-02-24,Beauty,Moisture Cream,24900.0,2.0,Daegu
+2040,2024-08-31,Electronics,Bluetooth Earbuds,49000.0,1.0,Daegu
+2041,2024-11-15,Home,Frying Pan,8900.0,2.0,Daegu
+2042,2024-05-10,Fashion,Hoodie,39000.0,1.0,Busan
+2043,2024-11-02,Sports,Running Shorts,69000.0,1.0,Gwangju
+2044,2024-05-14,Fashion,Hoodie,55000.0,2.0,Busan
+2045,2024-01-21,Sports,Running Shorts,89000.0,2.0,Incheon
+2046,2024-11-24,Electronics,Monitor,55000.0,2.0,Busan
+2047,2024-06-15,Sports,Yoga Mat,49000.0,1.0,Seoul
+2048,2024-09-30,Beauty,Perfume,8900.0,1.0,Gwangju
+2049,2024-03-29,Sports,Jump Rope,4500.0,2.0,Seoul
+2050,2024-11-11,Beauty,Lip Tint,4500.0,1.0,Gwangju
+2051,2024-01-14,Home,Coffee Mug,29900.0,2.0,Daegu
+2052,2024-08-29,Beauty,Lip Tint,18900.0,2.0,Daejeon
+2053,2024-09-21,Electronics,Wireless Mouse,55000.0,2.0,Gwangju
+2054,2024-12-11,Home,Cushion,69000.0,2.0,Daejeon
+2055,2024-02-22,Beauty,Perfume,55000.0,2.0,Daegu
+2056,2024-12-05,Sports,Jump Rope,24900.0,1.0,Daejeon
+2057,2024-04-01,Sports,Running Shorts,69000.0,3.0,Busan
+2058,2024-09-20,Sports,Water Bottle,39000.0,2.0,
+2059,2024-02-04,Beauty,Foam Cleanser,55000.0,1.0,Busan
+2060,2024-07-24,Home,Coffee Mug,29900.0,3.0,Daejeon
+2061,2024-03-21,Fashion,Basic T-Shirt,8900.0,1.0,Busan
+2062,2024-02-19,Fashion,Jacket,24900.0,3.0,Daegu
+2063,2024-12-25,Sports,Yoga Mat,29900.0,2.0,Seoul
+2064,2024-01-02,Electronics,Monitor,18900.0,2.0,Gwangju
+2065,2024-02-23,Home,Cushion,29900.0,1.0,Busan
+2066,2024-04-15,Fashion,Hoodie,39000.0,3.0,Daegu
+2067,2024-09-16,Sports,Dumbbell,8900.0,,
+2068,2024-11-05,Fashion,Sneakers,49000.0,2.0,Seoul
+2069,2024-07-09,Electronics,Wireless Mouse,55000.0,2.0,Seoul
+2070,2024-08-05,Electronics,Bluetooth Earbuds,29900.0,2.0,Gwangju
+2071,2024-02-13,Fashion,Sneakers,24900.0,3.0,Daejeon
+2072,2024-06-10,Beauty,Perfume,24900.0,2.0,Daegu
+2073,2024-07-20,Beauty,Perfume,55000.0,1.0,Seoul
+2074,2024-09-26,Electronics,Keyboard,4500.0,2.0,Gwangju
+2075,2024-12-16,Beauty,Lip Tint,89000.0,2.0,Busan
+2076,2024-10-30,Home,Towel Set,24900.0,1.0,Incheon
+2077,2024-09-27,Home,Table Lamp,49000.0,1.0,Incheon
+2078,2024-08-02,Fashion,Sneakers,24900.0,1.0,Incheon
+2079,2024-09-08,Beauty,Shampoo,,1.0,Seoul
+2080,2024-07-08,Sports,Jump Rope,12000.0,2.0,Gwangju
+2081,2024-10-22,Fashion,Hoodie,24900.0,1.0,Busan
+2082,2024-07-31,Fashion,Socks,8900.0,1.0,Daejeon
+2083,2024-07-26,Sports,Yoga Mat,29900.0,1.0,Busan
+2084,2024-08-24,Electronics,Wireless Mouse,24900.0,1.0,Seoul
+2085,2024-12-03,Beauty,Moisture Cream,4500.0,2.0,Seoul
+2086,2024-02-22,Fashion,Basic T-Shirt,12000.0,1.0,Daejeon
+2087,2024-10-06,Home,Coffee Mug,24900.0,2.0,Gwangju
+2088,2024-08-04,Beauty,Sunscreen,39000.0,2.0,Daejeon
+2089,2024-09-08,Sports,Running Shorts,69000.0,1.0,Seoul
+2090,2024-07-06,Sports,Sport Bag,55000.0,3.0,Seoul
+2091,2024-02-10,Beauty,Sunscreen,18900.0,3.0,Seoul
+2092,2024-06-05,Electronics,Portable Speaker,49000.0,1.0,Busan
+2093,2024-01-15,Fashion,Socks,29900.0,1.0,Daegu
+2094,2024-10-27,Fashion,Sneakers,4500.0,3.0,Incheon
+2095,2024-03-05,Sports,Sport Bag,89000.0,1.0,Seoul
+2096,2024-12-10,Sports,Dumbbell,8900.0,1.0,Daegu
+2097,2024-11-22,Home,Table Lamp,29900.0,1.0,Busan
+2098,2024-01-09,Fashion,Socks,89000.0,1.0,Busan
+2099,2024-12-09,Home,Coffee Mug,29900.0,1.0,Incheon
+2100,2024-05-08,Fashion,Hoodie,4500.0,2.0,Daejeon
+2101,2024-05-15,Home,Table Lamp,49000.0,1.0,Busan
+2102,2024-03-03,Electronics,USB-C Charger,18900.0,2.0,Busan
+2103,2024-05-18,Sports,Running Shorts,89000.0,1.0,Daegu
+2104,2024-03-21,Beauty,Lip Tint,39000.0,1.0,Gwangju
+2105,2024-06-11,Home,Towel Set,49000.0,1.0,Daegu
+2106,2024-10-15,Beauty,Moisture Cream,8900.0,2.0,Busan
+2107,2024-09-17,Beauty,Moisture Cream,24900.0,2.0,Busan
+2108,2024-08-18,Home,Table Lamp,29900.0,2.0,Gwangju
+2109,2024-02-10,Electronics,Monitor,55000.0,2.0,Busan
+2110,2024-01-28,Fashion,Basic T-Shirt,69000.0,2.0,Daegu
+2111,2024-05-14,Electronics,Portable Speaker,55000.0,1.0,Gwangju
+2112,2024-07-19,Beauty,Sunscreen,4500.0,1.0,Incheon
+2113,2024-11-23,Electronics,Bluetooth Earbuds,12000.0,2.0,Incheon
+2114,2024-09-24,Fashion,Sneakers,39000.0,3.0,Busan
+2115,2024-02-02,Sports,Running Shorts,89000.0,1.0,Daegu
+2116,2024-02-17,Beauty,Perfume,8900.0,1.0,Gwangju
+2117,2024-03-02,Beauty,Moisture Cream,55000.0,2.0,Incheon
+2118,2024-08-03,Fashion,Basic T-Shirt,4500.0,3.0,Busan
+2119,2024-10-19,Home,Coffee Mug,4500.0,2.0,Incheon
+2120,2024-04-08,Electronics,USB-C Charger,69000.0,1.0,Seoul
+2121,2024-06-20,Sports,Running Shorts,18900.0,3.0,Busan
+2122,2024-12-25,Electronics,USB-C Charger,12000.0,1.0,Seoul
+2123,2024-08-01,Sports,Sport Bag,18900.0,1.0,Busan
+2124,2024-02-04,Beauty,Moisture Cream,29900.0,2.0,Seoul
+2125,2024-08-14,Electronics,Monitor,29900.0,2.0,Gwangju
+2126,2024-04-10,Home,Storage Box,89000.0,3.0,Gwangju
+2127,2024-05-10,Electronics,Wireless Mouse,12000.0,2.0,Incheon
+2128,2024-09-13,Fashion,Sneakers,89000.0,2.0,Gwangju
+2129,2024-01-05,Electronics,Keyboard,49000.0,3.0,Daegu
+2130,2024-08-05,Electronics,Portable Speaker,89000.0,1.0,Daegu
+2131,2024-09-11,Sports,Jump Rope,24900.0,3.0,Busan
+2132,2024-12-24,Home,Cushion,18900.0,1.0,
+2133,2024-10-09,Electronics,USB-C Charger,4500.0,1.0,Gwangju
+2134,2024-07-25,Sports,Sport Bag,89000.0,2.0,Daejeon
+2135,2024-01-15,Beauty,Moisture Cream,4500.0,3.0,Busan
+2136,2024-12-11,Fashion,Jacket,39000.0,1.0,Incheon
+2137,2024-02-11,Fashion,Jacket,49000.0,1.0,Incheon
+2138,2024-06-27,Electronics,Monitor,55000.0,1.0,Seoul
+2139,2024-03-03,Beauty,Shampoo,39000.0,1.0,Gwangju
+2140,2024-12-17,Electronics,Monitor,8900.0,3.0,Daejeon
+2141,2024-08-18,Beauty,Lip Tint,8900.0,2.0,Daegu
+2142,2024-08-28,Beauty,Lip Tint,49000.0,3.0,Incheon
+2143,2024-02-21,Sports,Water Bottle,55000.0,2.0,Gwangju
+2144,2024-04-05,Home,Storage Box,12000.0,2.0,Daejeon
+2145,2024-08-09,Sports,Water Bottle,89000.0,3.0,Busan
+2146,2024-08-18,Home,Coffee Mug,69000.0,1.0,Busan
+2147,2024-08-24,Beauty,Sunscreen,29900.0,1.0,Seoul
+2148,2024-05-22,Electronics,Bluetooth Earbuds,4500.0,1.0,Gwangju
+2149,2024-06-19,Sports,Water Bottle,39000.0,1.0,Gwangju
+2150,2024-01-29,Beauty,Moisture Cream,49000.0,1.0,Incheon
+2151,2024-02-05,Sports,Yoga Mat,18900.0,3.0,Daegu
+2152,2024-01-13,Home,Frying Pan,29900.0,1.0,Seoul
+2153,2024-06-08,Sports,Dumbbell,89000.0,1.0,Gwangju
+2154,2024-11-22,Home,Storage Box,8900.0,1.0,Daejeon
+2155,2024-07-05,Beauty,Foam Cleanser,4500.0,3.0,Gwangju
+2156,2024-08-30,Sports,Jump Rope,49000.0,2.0,Daejeon
+2157,2024-03-26,Sports,Dumbbell,18900.0,2.0,Daejeon
+2158,2024-10-10,Fashion,Hoodie,12000.0,1.0,
+2159,2024-03-06,Home,Table Lamp,89000.0,1.0,Daejeon
+2160,2024-06-18,Home,Cushion,69000.0,3.0,Gwangju
+2161,2024-02-14,Fashion,Socks,89000.0,2.0,
+2162,2024-03-02,Sports,Sport Bag,8900.0,,Seoul
+2163,2024-05-13,Home,Cushion,18900.0,2.0,Daejeon
+2164,2024-10-10,Sports,Running Shorts,4500.0,2.0,Busan
+2165,2024-01-28,Electronics,Keyboard,12000.0,2.0,Gwangju
+2166,2024-04-17,Electronics,Keyboard,89000.0,1.0,Gwangju
+2167,2024-02-13,Sports,Dumbbell,69000.0,3.0,Incheon
+2168,2024-12-05,Electronics,Bluetooth Earbuds,29900.0,1.0,Daejeon
+2169,2024-10-12,Electronics,Monitor,55000.0,1.0,Incheon
+2170,2024-11-26,Electronics,Monitor,69000.0,1.0,Daegu
+2171,2024-05-07,Home,Coffee Mug,69000.0,1.0,Gwangju
+2172,2024-12-13,Fashion,Denim Jeans,89000.0,1.0,Daegu
+2173,2024-08-18,Electronics,Wireless Mouse,89000.0,2.0,Daegu
+2174,2024-07-08,Beauty,Shampoo,49000.0,1.0,Incheon
+2175,2024-08-12,Sports,Yoga Mat,4500.0,2.0,Daegu
+2176,2024-10-09,Fashion,Sneakers,8900.0,2.0,Seoul
+2177,2024-04-30,Electronics,USB-C Charger,55000.0,1.0,Incheon
+2178,2024-04-25,Home,Frying Pan,49000.0,1.0,Seoul
+2179,2024-08-20,Sports,Sport Bag,39000.0,1.0,Daegu
+2180,2024-09-15,Beauty,Shampoo,,2.0,Daejeon
+2181,2024-12-24,Beauty,Foam Cleanser,4500.0,3.0,Daegu
+2182,2024-07-16,Fashion,Denim Jeans,29900.0,2.0,Seoul
+2183,2024-05-16,Fashion,Socks,29900.0,1.0,Incheon
+2184,2024-11-13,Electronics,Monitor,39000.0,1.0,Busan
+2185,2024-06-13,Fashion,Hoodie,8900.0,2.0,Seoul
+2186,2024-08-12,Home,Table Lamp,,2.0,Seoul
+2187,2024-11-02,Electronics,Wireless Mouse,49000.0,1.0,Daejeon
+2188,2024-08-21,Electronics,Monitor,12000.0,1.0,Seoul
+2189,2024-06-20,Home,Table Lamp,12000.0,3.0,Gwangju
+2190,2024-05-31,Beauty,Perfume,18900.0,2.0,Gwangju
+2191,2024-11-10,Sports,Sport Bag,39000.0,1.0,Busan
+2192,2024-06-08,Electronics,Monitor,12000.0,2.0,Daegu
+2193,2024-04-05,Home,Frying Pan,8900.0,1.0,
+2194,2024-08-20,Sports,Jump Rope,89000.0,1.0,Busan
+2195,2024-06-28,Beauty,Perfume,18900.0,2.0,Daejeon
+2196,2024-04-22,Electronics,Portable Speaker,24900.0,2.0,Daegu
+2197,2024-11-13,Home,Table Lamp,29900.0,2.0,Seoul
+2198,2024-02-21,Fashion,Socks,49000.0,1.0,Gwangju
+2199,2024-09-24,Electronics,Portable Speaker,12000.0,1.0,Gwangju
+2200,2024-10-21,Electronics,Portable Speaker,55000.0,1.0,Gwangju
+2201,2024-04-22,Beauty,Shampoo,18900.0,1.0,Busan
+2202,2024-04-10,Sports,Dumbbell,8900.0,2.0,Daegu
+2203,2024-04-22,Fashion,Jacket,69000.0,2.0,Seoul
+2204,2024-03-21,Fashion,Basic T-Shirt,24900.0,1.0,Gwangju
+2205,2024-07-05,Fashion,Sneakers,39000.0,2.0,Busan
+2206,2024-04-22,Sports,Water Bottle,55000.0,3.0,Daegu
+2207,2024-01-02,Fashion,Sneakers,55000.0,2.0,Busan
+2208,2024-05-09,Sports,Yoga Mat,69000.0,2.0,Incheon
+2209,2024-08-07,Fashion,Socks,8900.0,2.0,Gwangju
+2210,2024-02-23,Beauty,Lip Tint,12000.0,2.0,Incheon
+2211,2024-12-08,Beauty,Foam Cleanser,24900.0,1.0,Daegu
+2212,2024-08-11,Home,Coffee Mug,89000.0,1.0,Gwangju
+2213,2024-08-12,Fashion,Socks,29900.0,2.0,Seoul
+2214,2024-05-05,Fashion,Sneakers,18900.0,1.0,Daegu
+2215,2024-05-09,Home,Cushion,4500.0,3.0,Daegu
+2216,2024-02-22,Sports,Water Bottle,8900.0,1.0,Busan
+2217,2024-06-20,Fashion,Jacket,55000.0,1.0,Seoul
+2218,2024-08-05,Electronics,Bluetooth Earbuds,89000.0,1.0,Seoul
+2219,2024-06-08,Beauty,Moisture Cream,8900.0,2.0,Incheon
+2220,2024-07-16,Home,Cushion,29900.0,1.0,Incheon
+2221,2024-09-03,Beauty,Sunscreen,89000.0,1.0,Seoul
+2222,2024-11-19,Sports,Yoga Mat,69000.0,1.0,
+2223,2024-07-21,Home,Storage Box,49000.0,1.0,Daejeon
+2224,2024-07-02,Electronics,Monitor,29900.0,3.0,Seoul
+2225,2024-05-02,Fashion,Basic T-Shirt,89000.0,1.0,Seoul
+2226,2024-09-11,Sports,Running Shorts,69000.0,1.0,Busan
+2227,2024-10-20,Sports,Sport Bag,69000.0,3.0,Daejeon
+2228,2024-10-06,Electronics,Wireless Mouse,49000.0,1.0,Daegu
+2229,2024-11-20,Sports,Running Shorts,18900.0,1.0,Busan
+2230,2024-04-07,Beauty,Foam Cleanser,39000.0,1.0,Gwangju
+2231,2024-07-16,Beauty,Perfume,8900.0,1.0,Daejeon
+2232,2024-08-27,Beauty,Foam Cleanser,39000.0,2.0,Seoul
+2233,2024-05-23,Home,Frying Pan,29900.0,1.0,Daejeon
+2234,2024-04-06,Fashion,Basic T-Shirt,69000.0,2.0,Gwangju
+2235,2024-07-19,Fashion,Hoodie,69000.0,1.0,Gwangju
+2236,2024-05-03,Beauty,Sunscreen,8900.0,1.0,Daegu
+2237,2024-07-05,Home,Frying Pan,4500.0,2.0,Gwangju
+2238,2024-11-21,Sports,Jump Rope,55000.0,2.0,Seoul
+2239,2024-12-14,Fashion,Socks,55000.0,2.0,Daejeon
+2240,2024-09-15,Electronics,Keyboard,4500.0,1.0,Daejeon
+2241,2024-05-27,Fashion,Sneakers,8900.0,3.0,Daejeon
+2242,2024-09-08,Electronics,Bluetooth Earbuds,24900.0,3.0,Seoul
+2243,2024-12-11,Electronics,Bluetooth Earbuds,49000.0,2.0,Incheon
+2244,2024-05-26,Beauty,Foam Cleanser,24900.0,2.0,Daejeon
+2245,2024-05-27,Beauty,Perfume,29900.0,3.0,Daegu
+2246,2024-12-17,Sports,Running Shorts,55000.0,2.0,Incheon
+2247,2024-07-17,Beauty,Perfume,29900.0,2.0,Daegu
+2248,2024-11-03,Sports,Sport Bag,69000.0,1.0,Busan
+2249,2024-05-07,Electronics,Portable Speaker,55000.0,1.0,Busan
+2250,2024-02-08,Beauty,Shampoo,24900.0,2.0,Gwangju
+2251,2024-12-03,Electronics,Bluetooth Earbuds,12000.0,2.0,Busan
+2252,2024-12-25,Electronics,Monitor,89000.0,1.0,Daegu
+2253,2024-05-08,Fashion,Denim Jeans,4500.0,1.0,Daegu
+2254,2024-09-23,Sports,Dumbbell,55000.0,1.0,Incheon
+2255,2024-05-30,Sports,Running Shorts,89000.0,1.0,Daegu
+2256,2024-10-24,Beauty,Perfume,55000.0,1.0,Seoul
+2257,2024-04-08,Fashion,Sneakers,69000.0,1.0,Seoul
+2258,2024-09-19,Sports,Water Bottle,89000.0,1.0,Incheon
+2259,2024-09-08,Beauty,Sunscreen,69000.0,1.0,Gwangju
+2260,2024-05-23,Sports,Jump Rope,24900.0,2.0,Seoul
+2261,2024-12-11,Fashion,Jacket,12000.0,1.0,Daegu
+2262,2024-04-21,Fashion,Hoodie,4500.0,3.0,Daegu
+2263,2024-02-29,Home,Coffee Mug,89000.0,1.0,Seoul
+2264,2024-01-02,Sports,Water Bottle,55000.0,2.0,Busan
+2265,2024-10-30,Home,Cushion,29900.0,2.0,Daejeon
+2266,2024-09-10,Beauty,Sunscreen,69000.0,1.0,Daegu
+2267,2024-05-19,Fashion,Denim Jeans,89000.0,2.0,Gwangju
+2268,2024-02-06,Fashion,Sneakers,8900.0,3.0,Daejeon
+2269,2024-06-08,Sports,Jump Rope,39000.0,1.0,Daejeon
+2270,2024-01-09,Beauty,Lip Tint,55000.0,1.0,Busan
+2271,2024-08-20,Home,Frying Pan,12000.0,3.0,Daegu
+2272,2024-04-08,Fashion,Basic T-Shirt,8900.0,,Incheon
+2273,2024-05-26,Sports,Dumbbell,29900.0,2.0,Incheon
+2274,2024-10-30,Home,Table Lamp,18900.0,1.0,Seoul
+2275,2024-07-26,Home,Storage Box,4500.0,1.0,Gwangju
+2276,2024-05-10,Electronics,Keyboard,69000.0,1.0,Busan
+2277,2024-05-31,Fashion,Socks,18900.0,1.0,Daegu
+2278,2024-02-23,Home,Frying Pan,39000.0,2.0,Daegu
+2279,2024-04-29,Electronics,Keyboard,12000.0,1.0,Busan
+2280,2024-06-09,Fashion,Denim Jeans,8900.0,2.0,Incheon
+2281,2024-04-25,Electronics,Wireless Mouse,55000.0,2.0,Daejeon
+2282,2024-03-15,Beauty,Perfume,8900.0,3.0,Incheon
+2283,2024-04-22,Beauty,Moisture Cream,12000.0,1.0,Gwangju
+2284,2024-04-13,Home,Towel Set,24900.0,2.0,Daegu
+2285,2024-12-05,Home,Storage Box,12000.0,1.0,Daejeon
+2286,2024-09-10,Beauty,Moisture Cream,4500.0,1.0,Incheon
+2287,2024-08-14,Fashion,Jacket,12000.0,1.0,Seoul
+2288,2024-04-21,Home,Table Lamp,89000.0,2.0,Gwangju
+2289,2024-04-08,Electronics,Bluetooth Earbuds,24900.0,1.0,Gwangju
+2290,2024-06-01,Fashion,Sneakers,39000.0,1.0,Daejeon
+2291,2024-12-14,Home,Frying Pan,49000.0,2.0,Busan
+2292,2024-12-31,Beauty,Perfume,55000.0,3.0,Gwangju
+2293,2024-12-03,Electronics,Keyboard,18900.0,2.0,Seoul
+2294,2024-07-12,Electronics,USB-C Charger,29900.0,3.0,Daejeon
+2295,2024-11-05,Sports,Running Shorts,49000.0,1.0,
+2296,2024-06-11,Electronics,Monitor,8900.0,3.0,Busan
+2297,2024-07-26,Beauty,Sunscreen,55000.0,1.0,Incheon
+2298,2024-06-17,Electronics,Wireless Mouse,29900.0,1.0,Seoul
+2299,2024-06-09,Electronics,USB-C Charger,55000.0,3.0,Gwangju
+2300,2024-03-08,Home,Towel Set,4500.0,1.0,Busan

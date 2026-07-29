@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../demo3"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive",
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}

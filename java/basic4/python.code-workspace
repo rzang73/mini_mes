@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "../../python"
+		},
+		{
+			"path": "../../python/python1"
+		},
+		{
+			"path": "../../mini_mes"
+		},
+		{
+			"path": "../basic3"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			""
+		]
+	}
+}
